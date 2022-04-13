@@ -1,0 +1,58 @@
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+}
+h1{
+    color: rgb(76, 200, 241);
+}
+h3{
+    color: rgb(76, 200, 241);
+    font-weight: 200;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h4{
+    color: rgb(61, 61, 61);
+    display: block;
+    text-align: center;
+    margin-left: 75%;
+    margin-right: 75%;
+    width: 50px;
+}
+li{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+}
+.mysubheading{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: darkorange;
+    display: block;
+    text-align: center;
+}
+.homebg{
+    background-image: url('../images/homebg.jpg');
+    background-position: top;
+    width: auto;
+    height: auto;
+}
+.info{
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+}
+.Vids{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(38, 120, 241);
+    text-align: center;
+    display: block;
+}
+.images{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+}
+iframe{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
